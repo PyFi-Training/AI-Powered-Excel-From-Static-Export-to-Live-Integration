@@ -39,12 +39,12 @@ pip install pyxll pandas matplotlib openai PySide6 pywin32 openai dotmap
 4. Configure PyXLL
 Add the ai_assistant.py and sidebar.py scripts to your pyxll.cfg file:
 
-
+```ini
 [PYXLL]
 modules =
     ai_assistant
     sidebar
-
+```
 
 ## 📂 Project Structure
 ai_assistant.py: The core "Chat Constructor" and OpenAI API integration logic.
