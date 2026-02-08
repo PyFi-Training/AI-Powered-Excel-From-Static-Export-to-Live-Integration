@@ -12,7 +12,7 @@ By embedding an in-workbook Sidebar implementation and an AI-Assistant directly 
 
 
 
-🌟 Key Features## 🌟 Key Features
+🌟 Key Features
 
 ### Custom Task Pane (CTP Sidebar)
 A persistent Python-powered sidebar embedded directly in Excel. It enables natural language interaction and executes actions **within the active workbook**, including creating and modifying worksheet elements such as tables, charts, row entries, labels, and formulas. All operations are applied live to the open spreadsheet, not via external file generation.
