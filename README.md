@@ -47,9 +47,9 @@ modules =
 ```
 
 ## 📂 Project Structure
-ai_assistant.py: The core "Chat Constructor" and OpenAI API integration logic.
-sidebar.py: The UI code using PySide6 and create_ctp to build the Excel sidebars.
-utils/plotting: Helper functions to route Matplotlib figures to Excel ranges.
+- ai_assistant.py: The core "Chat Constructor" and OpenAI API integration logic.
+- sidebar.py: The UI code using PySide6 and create_ctp to build the Excel sidebars.
+- utils/plotting: Helper functions to route Matplotlib figures to Excel ranges.
 
 ## 🚀 How to Use
 
@@ -63,7 +63,7 @@ utils/plotting: Helper functions to route Matplotlib figures to Excel ranges.
 - Enjoy while automation handles API calls to AI, in-place worksheet modifications, chart generation, and full simulations inside the workbook itself.
 
 ## 🔗 Links & Resources
--Tool Used: [PyXLL](https://www.pyxll.com)
--Video Tutorial: [Watch the full breakdown here](https://www.youtube.com)
--Follow for More: [PyFi YouTube Channel](https://www.youtube.com/@Py_Fi)
+- Tool Used: [PyXLL](https://www.pyxll.com)
+- Video Tutorial: [Watch the full breakdown here](https://www.youtube.com)
+- Follow for More: [PyFi YouTube Channel](https://www.youtube.com/@Py_Fi)
 
